@@ -1,16 +1,14 @@
-# chromatic_puzzle
+# Chromatic Puzzle 🎹
 
-A new Flutter project.
+This is a music inspired slide puzzle based on the C Chromatic scale where you really have to listen to be able to solve it! </br>
+For those that do not have perfect pitch (including myself), I have visually associated each tile according to <a href="https://en.wikipedia.org/wiki/Chromesthesia"> Scriabin's sound-to-color associations</a>.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+A Flutter Puzzle Hack 2022 submission.
 
-A few resources to get you started if this is your first Flutter project:
+## Links to Check Out If Music Theory Is Not Your Thing
+Chromatic Scale: https://en.wikipedia.org/wiki/Chromatic_scale </br>
+Semitone: https://en.wikipedia.org/wiki/Semitone
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
