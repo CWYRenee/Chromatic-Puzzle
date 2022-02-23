@@ -531,7 +531,7 @@ class _MyHomePageState extends State<MyHomePage> {
             children: <Widget>[
               Text(
                 numPiecesInWrongPlace == 0
-                    ? "Well Done. Congrats!"
+                    ? "Well Done!"
                     : "Chromatic Sound Puzzle",
                 style:
                     const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
@@ -643,7 +643,7 @@ class _MyHomePageState extends State<MyHomePage> {
               children: <Widget>[
                 Text(
                   numPiecesInWrongPlace == 0
-                      ? "Well Done.\nCongrats!"
+                      ? "Well Done!"
                       : "Chromatic\nPuzzle",
                   style: const TextStyle(
                       fontSize: 50, fontWeight: FontWeight.bold),
