@@ -27,7 +27,7 @@ class SoundService {
   }
 
   final AudioCache _player = AudioCache(
-    prefix: 'assets/audio/',
+    prefix: 'audio/',
     fixedPlayer: AudioPlayer(),
   );
 
